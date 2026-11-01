@@ -324,3 +324,4 @@ Test the compiled single-file EXE:
 .\dist\NetSentinelAI.exe --health-check
 .\dist\NetSentinelAI.exe --portable --health-check
 ```
+<img width="1297" height="726" alt="image" src="https://github.com/user-attachments/assets/bc7d724f-19a0-4e91-aeea-a971e0ff4eed" />
